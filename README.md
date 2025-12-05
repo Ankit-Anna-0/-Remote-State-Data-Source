@@ -87,5 +87,7 @@ terraform apply
 
 ![Screenshot_5-12-2025_16652_ap-south-1 console aws amazon com](https://github.com/user-attachments/assets/0ce27008-b75c-4e01-af24-58affe64fb59)
 <img width="856" height="699" alt="Screenshot 2025-12-05 160739" src="https://github.com/user-attachments/assets/5955fc49-7742-42e3-a65d-e7251cf53a63" />
+![Screenshot_5-12-2025_161016_ap-south-1 console aws amazon com](https://github.com/user-attachments/assets/02fe37ee-5822-45ec-a742-4321ebe67f7c)
+
 
 
